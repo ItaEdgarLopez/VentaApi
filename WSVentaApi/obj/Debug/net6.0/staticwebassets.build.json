@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sZLqf5FkxaRFLavXnHGrVKGaSAWiDaUmAmyAXFsQciA=",
+  "Source": "WSVentaApi",
+  "BasePath": "_content/WSVentaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
